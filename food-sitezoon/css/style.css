@@ -1,0 +1,213 @@
+html, body{
+    font-weight: 400 !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+ul{
+    padding-left: 0 !important;
+}
+
+.primary-color{
+    color: #fc7f09;
+}
+
+.secondary-color{
+    color: #1e223f;
+}
+
+.all-title{
+    font-size: 35px;
+    font-weight: 800;
+    color: #1e223f;
+}
+
+.padding-container{
+    padding-top: 80px;
+}
+
+.btn-sz-primary{
+    color: white;
+    font-size: 13px;
+    padding: 10px 25px;
+    background-color: #fc7f09;
+}
+
+.btn-sz-primary:hover{
+    color: white;
+    background-color: #1e223f;
+}
+
+.btn-sz-secondary{
+    color: white;
+    font-size: 13px;
+    padding: 10px 25px;
+    background-color: #1e223f;
+}
+
+.btn-sz-secondary:hover{
+    color: white;
+    background-color: #fc7f09;
+}
+
+.header-link{
+    margin: 10px;
+    font-size: 14px;
+}
+
+.header-link:hover{
+    color: #fc7f09 !important;
+}
+
+.btn-header{
+    font-size: 12px;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 50px;
+    background-color: #fc7f09;
+}
+
+.btn-header:hover{
+    color: white;
+    background-color: #1e223f;
+}
+
+.main-bg-text-1{
+    font-size: 55px;
+    font-weight: 800;
+}
+
+.main-bg-text-2{
+    font-size: 14px;
+    line-height: 2;
+    color: rgb(71, 71, 71);
+}
+
+.special-dish-card{
+    padding: 30px;
+    border-radius: 10%;
+    height: 480px;
+    border: 1px solid #e7e7e7;
+}
+
+.special-dish-card img{
+    width: 200px;
+    margin-left: 15%;
+}
+
+.card-title{
+    font-size: 23px;
+    font-weight: 800;
+    color: #1e223f;
+}
+
+.card-description{
+    font-size: 14px;
+}
+
+.star-review{
+    color: #fcbc05;
+    display: inline-block;
+}
+
+.price{
+    font-weight: 800;
+}
+
+.chefs-title{
+    font-size: 25px;
+    font-weight: 800;
+    color: #1e223f;
+}
+
+.chefs-description{
+    font-size: 14px;
+    line-height: 1.7;
+    margin-top: 20px;
+    color: rgb(71, 71, 71);
+}
+
+.chefs-check-icon{
+    padding: 10px 15px;
+    border-radius: 50px;
+    color: white !important;
+    background-color: #fc7f09;
+}
+
+.chefs-bg{
+    height: 510px;
+    border-radius: 100%;
+    background-color: #fc7f09;
+}
+
+.chef-img{
+    border-radius: 100%;
+}
+
+.footer{
+    border-top: 1px solid #e9e9e9;
+}
+
+.footer-logo{
+    color: black !important;
+}
+
+.footer-description{
+    font-size: 13px;
+    line-height: 1.7;
+    margin-top: 20px;
+    color: rgb(71, 71, 71);
+}
+
+.social-icons{
+    padding: 8px 12px;
+    transition: .5s;
+    border-radius: 100px;
+    color: white !important;
+    background-color: #fc7f09;
+}
+
+.social-icons:hover{
+    background-color: #1e223f;
+}
+
+.social-bg{
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.footer-links-col{
+    padding-left: 7%;
+}
+
+.footer-link-title{
+    font-weight: 800;
+}
+
+.footer-links-li{
+    margin-top: 10px;
+    list-style-type: none !important;
+}
+
+.footer-link{
+    font-size: 13px;
+    color: #8f8f8f;
+    transition: .5s !important;
+    text-decoration: none !important;
+}
+
+.footer-link:hover{
+    color: #fc7f09;
+}
+
+.footer-contact-text{
+    color: #3f3f3f;
+}
+
+.address-description{
+    font-size: 13px;
+    color: #8f8f8f;
+}
+
+.copyright-link{
+    color: #fc7f09 !important;
+}
